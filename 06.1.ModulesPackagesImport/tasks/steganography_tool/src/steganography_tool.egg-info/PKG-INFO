@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: steganography-tool
+Version: 0.1.0
+Summary: steganography_tool
+Author-email: Ilya Novitskiy <Ilya.Novitskiy.04@mail.ru>
+Requires-Python: >=3.7

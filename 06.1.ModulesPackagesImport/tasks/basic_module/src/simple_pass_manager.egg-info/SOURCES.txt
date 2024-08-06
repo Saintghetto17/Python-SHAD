@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+src/simple_pass_manager/__init__.py
+src/simple_pass_manager/exceptions.py
+src/simple_pass_manager/manager.py
+src/simple_pass_manager.egg-info/PKG-INFO
+src/simple_pass_manager.egg-info/SOURCES.txt
+src/simple_pass_manager.egg-info/dependency_links.txt
+src/simple_pass_manager.egg-info/top_level.txt
+src/simple_pass_manager/utils/__init__.py
+src/simple_pass_manager/utils/encryption.py
+src/simple_pass_manager/utils/generation.py
+tests/test_encryption.py
+tests/test_generation.py
+tests/test_manager.py

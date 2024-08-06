@@ -1,0 +1,2 @@
+[console_scripts]
+steganography-tool = steganography_tool.cli:cli
