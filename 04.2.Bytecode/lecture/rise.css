@@ -1,0 +1,39 @@
+.reveal {
+    font-family: "Quicksand", sans-serif !important;
+}
+
+.reveal center {
+    color: #383D3D!important;
+}
+
+.reveal .rendered_html h1, h2, h3, h4, h5, h6 {
+    font-family: "Quicksand", sans-serif!important;
+    color: #383D3D!important;
+    margin: 0!important;
+}
+
+.reveal .slide-background.present {
+    background-color: #fff!important;
+}
+
+.rise-enabled #notebook.reveal {
+    background-color: #fff!important;
+}
+
+.rise-enabled .alert {
+    font-size: 25px;
+    line-height: 30px;
+    border-radius: 10px;
+}
+
+.input_area {
+    font-size: 25px;
+}
+
+.rise-enabled div.CodeMirror {
+    margin: 0 0 5px 0;
+}
+
+div#notebook .rendered_html p {
+    line-height: 30px;
+}
