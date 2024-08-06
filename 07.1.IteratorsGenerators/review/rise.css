@@ -1,0 +1,29 @@
+.reveal {
+    font-family: "Quicksand", sans-serif !important;
+}
+
+.reveal center {
+    color: #383D3D!important;
+}
+
+.reveal h1, h2, h3, h4, h5, h6 {
+    font-family: "Quicksand", sans-serif!important;
+    color: #383D3D!important;
+}
+
+.reveal .slide-background.present {
+    background-color: #fff !important;
+}
+
+.rise-enabled #notebook.reveal {
+    background-color: #fff !important;
+}
+
+.rise-enabled .alert {
+    line-height: 105%;
+    border-radius: 10px;
+}
+
+.input_area {
+    font-size: 25px;
+}
