@@ -1,0 +1,20 @@
+namespace lecture.example;
+
+table EmptyT {}
+
+table NonEmptyT {
+    x:byte;
+    y:[int];
+    z:int (deprecated);
+}
+
+union Union {
+    Empty:EmptyT,
+    NonEmpty:NonEmptyT
+}
+
+table AnyT {
+    content:Union;
+}
+
+root_type AnyT;

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package lecture.example;
+
+message EmptyT {}
+
+message NonEmptyT {
+    reserved 2;
+    int32 x = 1;
+    repeated int32 y = 3;
+}
+
+message AnyT {
+    oneof content {
+        EmptyT empty_content = 1;
+        NonEmptyT non_empty_content = 2;
+    }
+}
