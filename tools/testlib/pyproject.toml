@@ -1,0 +1,8 @@
+[project]
+name = "testlib"
+authors = [
+    {name = "Konstantin Chernyshev", email = "kdchernyshev@gmail.com"},
+]
+readme = "README.md"
+version = "0.0.3"
+description = "Micro lib useful for checking students solutions"

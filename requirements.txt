@@ -1,0 +1,52 @@
+# internet 
+requests==2.31.0
+beautifulsoup4==4.12.2
+aiohttp==3.8.5
+yarl==1.9.2
+
+# c bindings and compillers
+numba==0.58.0rc1  # latest numba (0.57.1) requires numpy<1.25, so use release candidate
+Cython==3.0.1
+pybind11==2.11.1
+
+# data
+scipy==1.11.2
+numpy==1.25.2
+pandas==2.0.3
+
+# visualisation
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.16.1
+
+# date and time
+tzlocal==5.0.1
+
+# serializers
+lxml==4.9.3
+flatbuffers==23.5.26
+protobuf==4.24.2
+PyYAML==6.0.1
+pyarrow==14.0.1
+
+# other stuff
+fastapi==0.102.0
+httpx==0.24.1
+SQLAlchemy==2.0.20
+GitPython==3.1.32
+
+# testing and linting
+flake8==6.1.0
+Flake8-pyproject==1.2.3  # to configure flake8 with pyproject.toml
+ruff==0.0.286
+mypy==1.5.1
+black==23.7.0
+pytest==7.4.0
+pytest-timeout==2.1.0
+requests-mock==1.11.0
+pytest-mock==3.11.1
+pytest-cov==4.1.0
+psutil==5.9.5
+
+# types
+types-requests==2.31.0.2
