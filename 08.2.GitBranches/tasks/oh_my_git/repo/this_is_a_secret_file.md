@@ -1,0 +1,2 @@
+I would not leave the code in the top state of the branch, of course, it would be dumb. But you should search the history of the master branch for the code. It will look something like the following incorrect code. Once you find the code, you should return the string with it from the function `get_secret_code()`, which is located in the outer repository in the `oh_my_git.py` file.  
+`Nope, the code is not here`

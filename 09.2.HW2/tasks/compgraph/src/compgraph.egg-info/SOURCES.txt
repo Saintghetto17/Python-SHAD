@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+src/compgraph/__init__.py
+src/compgraph/algorithms.py
+src/compgraph/external_sort.py
+src/compgraph/graph.py
+src/compgraph/operations.py
+src/compgraph.egg-info/PKG-INFO
+src/compgraph.egg-info/SOURCES.txt
+src/compgraph.egg-info/dependency_links.txt
+src/compgraph.egg-info/top_level.txt
+tests/test_examples.py
+tests/test_graph.py
+tests/test_operations.py

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: compgraph
+Version: 0.1.0
+Summary: compgraph
+Author-email: Ilya Novitskiy <Ilya.Novitskiy.04@mail.ru>
+Requires-Python: >=3.7
