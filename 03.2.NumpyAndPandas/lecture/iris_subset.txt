@@ -1,0 +1,9 @@
+'sepal_length_in_cm', sepal_width_in_cm', petal_length_in_cm', petal_width_in_cm', class'
+1, 1, 10, 121, setosa
+1, 314, 13, 121, versicolor
+1134, 1, 103, 1421, setosa
+1, 141, 10, 121, versicolor
+144, 1, 4582, 13481, versicolor
+1, 13.3, 10, 121, versicolor
+1141., 1, 1341.0, 1231.1, setosa
+732., 131, 139.0, 92.1, setosa
