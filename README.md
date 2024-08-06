@@ -1,2 +1,3 @@
 # Python-SHAD
-Ny solutions of python shad course
+My solutions of python shad course
+Check all README's in the folders
