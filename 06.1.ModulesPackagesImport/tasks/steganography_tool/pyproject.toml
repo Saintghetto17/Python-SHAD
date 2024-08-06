@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools >= 61.0.0", "wheel", "Pillow", "click"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "steganography_tool"
+version = "0.1.0"
+authors = [
+    { name = "Ilya Novitskiy", email = "Ilya.Novitskiy.04@mail.ru" }
+]
+description = "steganography_tool"
+requires-python = ">=3.7"
+
+# show the path to cli function that represent our srcipt which is based
+# in src.steganography_tool.cli
+[project.scripts]
+steganography-tool = "steganography_tool.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.setuptools.package-data]
+steganography_tool = ["*.png"]
